@@ -11,6 +11,10 @@ A Flutter app, that displays personal information in the form of a CV.
 - Clone the repo
 - Run the program
 
-  
+## To test on Appetize
+
+https://appetize.io/app/izc5apzhwydgt7j4lobxmxjgwy
+- OS version: 13 
+- Device Name: Pixel 7
   
 
